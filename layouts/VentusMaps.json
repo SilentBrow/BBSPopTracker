@@ -1,0 +1,110 @@
+﻿{
+    "VentusMaps": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "The Land of Departure",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) The Land of Departure"]
+                            }
+                        },
+                        {
+                            "title": "Dwarf Woodlands",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) Dwarf Woodlands"]
+                            }
+                        },
+                        {
+                            "title": "Olympus Coliseum",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) Olympus Coliseum"]
+                            }
+                        },
+                        {
+                            "title": "Castle of Dreams",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) Castle of Dreams"]
+                            }
+                        },
+                        {
+                            "title": "Enchanted Dominion",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) Enchanted Dominion"]
+                            }
+                        },
+                        {
+                            "title": "The Mysterious Tower",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) The Mysterious Tower"]
+                            }
+                        },
+                        {
+                            "title": "Radiant Garden",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) Radiant Garden"]
+                            }
+                        },
+                        {
+                            "title": "Deep Space",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) Deep Space"]
+                            }
+                        },
+                        {
+                            "title": "Never Land",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) Never Land"]
+                            }
+                        },
+                        {
+                            "title": "Disney Town",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) Disney Town"]
+                            }
+                        },
+                        {
+                            "title": "The Keyblade Graveyard",
+                            "content": {
+                                "type": "map",
+                                "maps": ["(V) The Keyblade Graveyard"]
+                            }
+                        },
+                    ]
+                }
+            ]
+        }
+    },
+    "settings_popup":{
+        "type": "array",
+        "orientation": "horizontal",
+        "h_alignment": "left",
+        "content": [
+            {
+                "type": "group",
+                "header": "Settings",
+                "dock": "bottom",
+                "content": {
+                    "type": "layout",
+                    "key": "setting_grid"
+                }
+            }
+        ]
+    }
+}

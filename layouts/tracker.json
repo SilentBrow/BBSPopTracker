@@ -1,0 +1,49 @@
+﻿{
+    "tracker_default": {
+        "type": "container",
+        "content": {
+            "type": "dock",
+            "background": "#000000",
+            "dock": "right",
+            "dropshadow": false,
+            "content": [
+                {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Terra",
+                            "content": {
+                                "type": "layout",
+                                "key": "TerraMaps"
+                            }
+                        },
+                        {
+                            "title": "Aqua",
+                            "content": {
+                                "type": "layout",
+                                "key": "AquaMaps"
+                            }
+                        },
+                        {
+                            "title": "Ventus",
+                            "content": {
+                                "type": "layout",
+                                "key": "VentusMaps"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "content": [
+                        {
+                            "type": "layout",
+                            "key": "shared_item_grid"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

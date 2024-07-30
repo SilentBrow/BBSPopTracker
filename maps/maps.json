@@ -1,0 +1,207 @@
+[
+    {
+        "name": "(T) The Land of Departure",
+        "location_size": 10,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) The Land of Departure.png"
+    },
+    {
+        "name": "(T) Dwarf Woodlands",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/(T) Dwarf Woodlands.png"
+    },
+    {
+        "name": "(T) Castle of Dreams",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) Castle of Dreams.png"
+    },
+    {
+        "name": "(T) Enchanted Dominion",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) Enchanted Dominion.png"
+    },
+    {
+        "name": "(T) The Mysterious Tower",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) The Mysterious Tower.png"
+    },
+    {
+        "name": "(T) Radiant Garden",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) Radiant Garden.png"
+    },
+    {
+        "name": "(T) Olympus Coliseum",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) Olympus Coliseum.png"
+    },
+    {
+        "name": "(T) Deep Space",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) Deep Space.png"
+    },
+    {
+        "name": "(T) Never Land",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) Never Land.png"
+    },
+    {
+        "name": "(T) Disney Town",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) Disney Town.png"
+    },
+    {
+        "name": "(T) The Keyblade Graveyard",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(T) The Keyblade Graveyard.png"
+    },
+    {
+        "name": "(A) The Land of Departure",
+        "location_size": 10,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) The Land of Departure.png"
+    },
+    {
+        "name": "(A) Dwarf Woodlands",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Dwarf Woodlands.png"
+    },
+    {
+        "name": "(A) Castle of Dreams",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Castle of Dreams.png"
+    },
+    {
+        "name": "(A) Enchanted Dominion",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Enchanted Dominion.png"
+    },
+    {
+        "name": "(A) The Mysterious Tower",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) The Mysterious Tower.png"
+    },
+    {
+        "name": "(A) Radiant Garden",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Radiant Garden.png"
+    },
+    {
+        "name": "(A) Olympus Coliseum",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Olympus Coliseum.png"
+    },
+    {
+        "name": "(A) Deep Space",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Deep Space.png"
+    },
+    {
+        "name": "(A) Never Land",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Never Land.png"
+    },
+    {
+        "name": "(A) Disney Town",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Disney Town.png"
+    },
+    {
+        "name": "(A) The Keyblade Graveyard",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) The Keyblade Graveyard.png"
+    },
+    {
+        "name": "(V) The Land of Departure",
+        "location_size": 10,
+        "location_border_thickness": 2,
+        "img": "images/maps/(V) The Land of Departure.png"
+    },
+    {
+        "name": "(V) Dwarf Woodlands",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) Dwarf Woodlands.png"
+    },
+    {
+        "name": "(V) Castle of Dreams",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) Castle of Dreams.png"
+    },
+    {
+        "name": "(V) Enchanted Dominion",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) Enchanted Dominion.png"
+    },
+    {
+        "name": "(V) The Mysterious Tower",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) The Mysterious Tower.png"
+    },
+    {
+        "name": "(V) Radiant Garden",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) Radiant Garden.png"
+    },
+    {
+        "name": "(V) Olympus Coliseum",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(v) Olympus Coliseum.png"
+    },
+    {
+        "name": "(V) Deep Space",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) Deep Space.png"
+    },
+    {
+        "name": "(V) Never Land",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) Never Land.png"
+    },
+    {
+        "name": "(V) Disney Town",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) Disney Town.png"
+    },
+    {
+        "name": "(V) The Keyblade Graveyard",
+        "location_size": 10,
+        "location_border_thickness": 4,
+        "img": "images/maps/(V) The Keyblade Graveyard.png"
+    },
+    {
+        "name": "(A) Realm of Darkness",
+        "location_size": 15,
+        "location_border_thickness": 4,
+        "img": "images/maps/(A) Realm of Darkness.png"
+    }
+
+]

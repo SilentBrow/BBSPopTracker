@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Dwarf Woodlands",
+        "type": "toggle",
+        "img": "images/items/Dwarf Woodlands.png",
+        "codes": "Dwarf Woodlands"
+    },
+    {
+        "name": "Castle of Dreams",
+        "type": "toggle",
+        "img": "images/items/Castle of Dreams.png",
+        "codes": "Castle of Dreams"
+    },
+    {
+        "name": "Enchanted Dominion",
+        "type": "toggle",
+        "img": "images/items/Enchanted Dominion.png",
+        "codes": "Enchanted Dominion"
+    },
+    {
+        "name": "The Mysterious Tower",
+        "type": "toggle",
+        "img": "images/items/Dwarf Woodlands.png",
+        "codes": "The Mysterious Tower"
+    },
+    {
+        "name": "Radiant Garden",
+        "type": "toggle",
+        "img": "images/items/Radiant Garden.png",
+        "codes": "Radiant Garden"
+    },
+    {
+        "name": "Olympus Coliseum",
+        "type": "toggle",
+        "img": "images/items/Olympus Coliseum.png",
+        "codes": "Olympus Coliseum"
+    },
+    {
+        "name": "Deep Space",
+        "type": "toggle",
+        "img": "images/items/Deep Space.png",
+        "codes": "Deep Space"
+    },
+    {
+        "name": "The Keyblade Graveyard",
+        "type": "toggle",
+        "img": "images/items/The Keyblade Graveyard.png",
+        "codes": "The Keyblade Graveyard"
+    },
+    {
+        "name": "The Realm of Darkness",
+        "type": "toggle",
+        "img": "images/items/The Realm of Darkness.png",
+        "codes": "The Realm of Darkness"
+    },
+    {
+        "name": "Never Land",
+        "type": "toggle",
+        "img": "images/items/Never Land.png",
+        "codes": "Never Land"
+    },
+    {
+        "name": "Disney Town",
+        "type": "toggle",
+        "img": "images/items/Disney Town.png",
+        "codes": "Disney Town"
+    },
+    {
+        "name": "High Jump",
+        "type": "toggle",
+        "img": "images/items/High Jump.png",
+        "codes": "High Jump"
+    },
+    {
+        "name": "Glide",
+        "type": "toggle",
+        "img": "images/items/Glide.png",
+        "codes": "Glide"
+    },
+    {
+        "name": "Fire Glide",
+        "type": "toggle",
+        "img": "images/items/Fire Glide.png",
+        "codes": "Fire Glide"
+    },
+    {
+        "name": "Superglide",
+        "type": "toggle",
+        "img": "images/items/Superglide.png",
+        "codes": "Superglide"
+    },
+    {
+        "name": "Air Slide",
+        "type": "toggle",
+        "img": "images/items/Air Slide.png",
+        "codes": "Air Slide"
+    },
+    {
+        "name": "Ice Slide",
+        "type": "toggle",
+        "img": "images/items/Ice Slide.png",
+        "codes": "Ice Slide"
+    },
+    {
+        "name": "Doubleflight",
+        "type": "toggle",
+        "img": "images/items/Doubleflight.png",
+        "codes": "Doubleflight"
+    },
+    {
+        "name": "Wayfinder Terra",
+        "type": "toggle",
+        "img": "images/items/Wayfinder Terra.png",
+        "codes": "Wayfinder Terra"
+    },
+    {
+        "name": "Wayfinder Aqua",
+        "type": "toggle",
+        "img": "images/items/Wayfinder Aqua.png",
+        "codes": "Wayfinder Aqua"
+    },
+    {
+        "name": "Wayfinder Ventus",
+        "type": "toggle",
+        "img": "images/items/Wayfinder Ventus.png",
+        "codes": "Wayfinder Ventus"
+    }
+]

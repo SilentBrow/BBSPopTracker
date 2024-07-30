@@ -1,0 +1,37 @@
+{
+    "Progression":{
+        "type": "dock",
+        "content": [
+            {
+                "type": "group",
+                "header": "Movement",
+                "content":{
+                    "type": "itemgrid",
+                    "dock": "bottom",
+                    "item_margin": "5,5",
+                    "item_size": "45,45",
+                    "rows": [
+                        ["High Jump","Air Slide","Ice Slide"],
+                        ["Glide", "Fire Glide", "Superglide"],
+                        ["Doubleflight"]
+                    ]
+                }
+            },
+            {
+                "type": "group",
+                "header": "Wayfinders",
+                "content": {
+                    "type": "itemgrid",
+                    "dock": "bottom",
+                    "item_margin": "5,5",
+                    "item_size": "45,45",
+                    "rows":[
+                        ["Wayfinder Terra", "Wayfinder Aqua", "Wayfinder Ventus"]
+                    ]
+                }
+            }
+
+            
+        ]
+    }
+}

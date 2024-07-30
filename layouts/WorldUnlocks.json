@@ -1,0 +1,18 @@
+{
+  "World Unlocks": {
+    "type": "group",
+    "header": "World unlocks",
+    "content": {
+      "type": "itemgrid",
+      "dock": "left",
+      "item_margin": "7,7",
+      "item_size": "70,70",
+      "rows": [
+        ["Dwarf Woodlands", "Castle of Dreams", "Enchanted Dominion"],
+        ["The Mysterious Tower", "Radiant Garden", "Olympus Coliseum"],
+        ["Deep Space", "Never Land", "Disney Town"],
+        ["The Keyblade Graveyard", "The Realm of Darkness"]
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "shared_item_grid": {
+      "type": "dock",
+      "content": [
+        {
+          "type": "layout",
+          "dock": "top",
+          "key": "World Unlocks"
+        },
+        {
+          "type": "layout",
+          "dock": "bottom",
+          "key": "Progression"
+        }
+      ]
+    }
+  }
+  
