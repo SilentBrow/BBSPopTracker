@@ -20,7 +20,7 @@
     {
         "name": "The Mysterious Tower",
         "type": "toggle",
-        "img": "images/items/Dwarf Woodlands.png",
+        "img": "images/items/The Mysterious Tower.png",
         "codes": "The Mysterious Tower"
     },
     {
@@ -48,10 +48,10 @@
         "codes": "The Keyblade Graveyard"
     },
     {
-        "name": "The Realm of Darkness",
+        "name": "Realm of Darkness",
         "type": "toggle",
-        "img": "images/items/The Realm of Darkness.png",
-        "codes": "The Realm of Darkness"
+        "img": "images/items/Realm of Darkness.png",
+        "codes": "Realm of Darkness"
     },
     {
         "name": "Never Land",
